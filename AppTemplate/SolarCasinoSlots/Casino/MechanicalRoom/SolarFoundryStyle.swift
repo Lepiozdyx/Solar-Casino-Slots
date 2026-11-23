@@ -22,7 +22,7 @@ extension Int {
 
 final class SolarArtworkDepot {
     static let shared = SolarArtworkDepot()
-    func solarPicture(_ name: String) -> UIImage { SolarImageArchive.shared.solarImage(name) ?? UIImage() }
+    @MainActor func solarPicture(_ name: String) -> UIImage { SolarImageArchive.shared.solarImage(name) ?? UIImage() }
 }
 struct SolarArt: View {
     let name: String

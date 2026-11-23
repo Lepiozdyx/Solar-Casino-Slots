@@ -446,6 +446,6 @@ private struct SolarIncomeToast: View {
     }
 }
 
-private func solarEstateFeedback(_ bank: SolarCasinoBank) {
+@MainActor private func solarEstateFeedback(_ bank: SolarCasinoBank) {
     if bank.archive.thunder.vibration { UIImpactFeedbackGenerator(style: .light).impactOccurred() }
 }

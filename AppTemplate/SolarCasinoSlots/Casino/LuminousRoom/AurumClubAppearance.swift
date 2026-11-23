@@ -10,7 +10,7 @@ enum AurumInk {
 extension Color { init(sx: UInt32) { self.init(.sRGB,red:Double((sx>>16)&255)/255,green:Double((sx>>8)&255)/255,blue:Double(sx&255)/255,opacity:1) } }
 final class AurumArtwork {
     static let shared = AurumArtwork()
-    func solarGet(_ name: String) -> UIImage? { SolarImageArchive.shared.solarImage(name) }
+    @MainActor func solarGet(_ name: String) -> UIImage? { SolarImageArchive.shared.solarImage(name) }
 }
 struct AurumArt: View {
     let name: String
