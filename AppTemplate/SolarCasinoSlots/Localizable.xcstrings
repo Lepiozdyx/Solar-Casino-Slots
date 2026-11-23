@@ -1,0 +1,3782 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld FREE SPINS" : {
+
+    },
+    "%lld–%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld–%2$lld"
+          }
+        }
+      }
+    },
+    "%lld+" : {
+
+    },
+    "+" : {
+
+    },
+    "+%lld" : {
+
+    },
+    "×%lld" : {
+
+    },
+    "3" : {
+
+    },
+    "3 / 4 / 5" : {
+
+    },
+    "action.back" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
+        }
+      }
+    },
+    "action.cancel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "action.home" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicio"
+          }
+        }
+      }
+    },
+    "action.lesson" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to Play"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cómo jugar"
+          }
+        }
+      }
+    },
+    "action.settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
+          }
+        }
+      }
+    },
+    "Amber chalice" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amber chalice"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cáliz de ámbar"
+          }
+        }
+      }
+    },
+    "An expanding wild reel in every free spin." : {
+
+    },
+    "BIG WIN" : {
+
+    },
+    "Blue diamond" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blue diamond"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diamante azul"
+          }
+        }
+      }
+    },
+    "BONUS COMPLETE" : {
+
+    },
+    "BREAK THE ROCKETS" : {
+
+    },
+    "Break three rockets to reveal your free spins." : {
+
+    },
+    "Carnival mask" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carnival mask"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Máscara de carnaval"
+          }
+        }
+      }
+    },
+    "casino.bank" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shared Bank"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Banco compartido"
+          }
+        }
+      }
+    },
+    "casino.loadError" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not open your bank"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo abrir tu banco"
+          }
+        }
+      }
+    },
+    "casino.loadMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your saved file has been preserved. Reopen the app to try again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu archivo guardado se ha conservado. Vuelve a abrir la app para reintentar."
+          }
+        }
+      }
+    },
+    "casino.lowerStake" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a lower stake to keep playing."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige una apuesta menor para seguir jugando."
+          }
+        }
+      }
+    },
+    "casino.refill" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add 5,000 free coins"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir 5.000 monedas gratis"
+          }
+        }
+      }
+    },
+    "casino.resume %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reanudar %@"
+          }
+        }
+      }
+    },
+    "casino.retry" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retry saving"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reintentar guardado"
+          }
+        }
+      }
+    },
+    "casino.saveError" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not save your game"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se pudo guardar la partida"
+          }
+        }
+      }
+    },
+    "casino.saveMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep the app open and retry to save your bank and game together."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantén la app abierta y reintenta para guardar el banco y la partida juntos."
+          }
+        }
+      }
+    },
+    "casino.virtual" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Free virtual coins, shared across this collection. No cash value."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monedas virtuales gratis, compartidas en esta colección. Sin valor monetario."
+          }
+        }
+      }
+    },
+    "Charges add together and multiply your tumble wins." : {
+
+    },
+    "Cherry pair" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cherry pair"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Par de cerezas"
+          }
+        }
+      }
+    },
+    "Citrus slice" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Citrus slice"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rodaja de cítrico"
+          }
+        }
+      }
+    },
+    "Copper bell" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copper bell"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Campana de cobre"
+          }
+        }
+      }
+    },
+    "empire.collectionComplete" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All properties unlocked"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todas las propiedades abiertas"
+          }
+        }
+      }
+    },
+    "empire.dailyIncome" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Income per 24h"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingresos cada 24 h"
+          }
+        }
+      }
+    },
+    "empire.enter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter Your Empire"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrar en tu imperio"
+          }
+        }
+      }
+    },
+    "empire.gameHall" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Game Hall"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sala de juegos"
+          }
+        }
+      }
+    },
+    "empire.gameHall.intro" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slots, blackjack and roulette use your treasury. Each result can raise or lower your shared coin balance."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las tragamonedas, el blackjack y la ruleta usan tu tesorería. Cada resultado puede aumentar o reducir tu saldo de monedas."
+          }
+        }
+      }
+    },
+    "empire.guide.box.body" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose any locked tile to open your first box. The property inside will add to your daily income."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige cualquier casilla cerrada para abrir tu primera caja. La propiedad que contiene aumentará tus ingresos diarios."
+          }
+        }
+      }
+    },
+    "empire.guide.collect.body" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solar Casino has your first payout ready. Collect it to afford your first mystery box."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solar Casino tiene listo tu primer pago. Cóbralo para poder comprar tu primera caja misteriosa."
+          }
+        }
+      }
+    },
+    "empire.guide.hall" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready to expand again? Visit the Game Hall to play using your treasury."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Quieres ampliar tu imperio? Visita la Sala de juegos y juega con las monedas de tu tesorería."
+          }
+        }
+      }
+    },
+    "empire.help.box.body" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In your Empire, open Properties and pick a locked tile. You see the price before buying. The box reveals a business that adds to your daily income."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En tu imperio, abre Propiedades y elige una casilla cerrada. Verás el precio antes de comprar. La caja revela un negocio que aumenta tus ingresos diarios."
+          }
+        }
+      }
+    },
+    "empire.help.box.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open mystery boxes"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre cajas misteriosas"
+          }
+        }
+      }
+    },
+    "empire.help.hall" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "From your Empire, open the Game Hall to play slots, blackjack or roulette. Stakes and payouts change the same balance you use to buy boxes."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desde tu imperio, abre la Sala de juegos para jugar a las tragamonedas, al blackjack o a la ruleta. Las apuestas y los premios cambian el mismo saldo que usas para comprar cajas."
+          }
+        }
+      }
+    },
+    "empire.help.income" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collect ready payouts in your Empire or on the Properties board. After opening or collecting, a property takes 24 hours to produce its next payout and holds one payout at a time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cobra los pagos disponibles en tu imperio o en el tablero de Propiedades. Tras abrir una propiedad o cobrar, su próximo pago tarda 24 horas. Cada propiedad acumula un solo pago."
+          }
+        }
+      }
+    },
+    "empire.missing %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You need %@ more coins."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Te faltan %@ monedas."
+          }
+        }
+      }
+    },
+    "empire.properties" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Properties"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Propiedades"
+          }
+        }
+      }
+    },
+    "empire.readyIncome" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready to collect"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listo para cobrar"
+          }
+        }
+      }
+    },
+    "empire.return" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back to Your Empire"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volver a tu imperio"
+          }
+        }
+      }
+    },
+    "empire.reveal.totalIncome" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total income per 24h"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingresos totales cada 24 h"
+          }
+        }
+      }
+    },
+    "empire.treasury" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treasury"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tesorería"
+          }
+        }
+      }
+    },
+    "Enter %lld automatic free spins." : {
+
+    },
+    "estate.buy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buy & Reveal"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprar y revelar"
+          }
+        }
+      }
+    },
+    "estate.collect" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collect"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cobrar"
+          }
+        }
+      }
+    },
+    "estate.collectAll" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collect All"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cobrar todo"
+          }
+        }
+      }
+    },
+    "estate.dailyIncome" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Income every 24 hours"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingresos cada 24 horas"
+          }
+        }
+      }
+    },
+    "estate.firstTap" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap Solar Casino to take a look inside."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca Solar Casino para ver el interior."
+          }
+        }
+      }
+    },
+    "estate.incomeReady" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Income ready to collect"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingresos disponibles"
+          }
+        }
+      }
+    },
+    "estate.lesson.bank.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slots, blackjack, roulette and your properties share one balance. Use your starting coins and winnings to grow your casino."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las tragamonedas, el blackjack, la ruleta y tus propiedades comparten el mismo saldo. Usa tus monedas iniciales y tus ganancias para ampliar el casino."
+          }
+        }
+      }
+    },
+    "estate.lesson.bank.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "One bank for the whole casino"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un banco para todo el casino"
+          }
+        }
+      }
+    },
+    "estate.lesson.income.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Each property is ready 24 hours after opening or your last collection. Tap an open tile to collect its coins, or use Collect All on the board. Each property holds one payout at a time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada propiedad paga 24 horas después de abrirse o del último cobro. Toca una casilla abierta para cobrar o usa Cobrar todo en el tablero. Cada propiedad guarda un solo pago a la vez."
+          }
+        }
+      }
+    },
+    "estate.lesson.income.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collect your income"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cobra tus ingresos"
+          }
+        }
+      }
+    },
+    "estate.lesson.lot.body %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap ‘%@’, then tap a locked tile. The price is shown before you buy. The property and its income are revealed after purchase."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca «%@» y luego una casilla cerrada. Verás el precio antes de comprar. La propiedad y sus ingresos se revelan tras la compra."
+          }
+        }
+      }
+    },
+    "estate.lesson.lot.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buy a mystery plot"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compra una parcela misteriosa"
+          }
+        }
+      }
+    },
+    "estate.lesson.spin.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a stake and tap the reels. In roulette, place your bets and tap the wheel. Wait for the result before spinning again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige la apuesta y toca los rodillos. En la ruleta, coloca tus apuestas y toca la rueda. Espera al resultado antes de volver a girar."
+          }
+        }
+      }
+    },
+    "estate.lesson.spin.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap to spin"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca para girar"
+          }
+        }
+      }
+    },
+    "estate.locked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mystery Box"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caja misteriosa"
+          }
+        }
+      }
+    },
+    "estate.locked.body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open this box to discover which business will join your Empire."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre esta caja para descubrir qué negocio se unirá a tu imperio."
+          }
+        }
+      }
+    },
+    "estate.missing %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You need %lld more coins."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Te faltan %lld monedas."
+          }
+        }
+      }
+    },
+    "estate.nextPayout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next payout"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próximo cobro"
+          }
+        }
+      }
+    },
+    "estate.nextPrice" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next plot"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Próxima parcela"
+          }
+        }
+      }
+    },
+    "estate.open" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Empire"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu imperio"
+          }
+        }
+      }
+    },
+    "estate.property.baccarat.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baccarat Table"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesa de bacará"
+          }
+        }
+      }
+    },
+    "estate.property.baccarat.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A quiet green table hosts the player and banker hands."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una discreta mesa verde recibe las manos del jugador y de la banca."
+          }
+        }
+      }
+    },
+    "estate.property.bar.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cocktail Bar"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bar de cócteles"
+          }
+        }
+      }
+    },
+    "estate.property.bar.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The brass bar stays busy long after the last round."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La barra de latón sigue llena mucho después de la última ronda."
+          }
+        }
+      }
+    },
+    "estate.property.bingo.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bingo Hall"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sala de bingo"
+          }
+        }
+      }
+    },
+    "estate.property.bingo.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The numbered balls rattle while the room waits for the winning call."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las bolas numeradas traquetean mientras la sala espera el número ganador."
+          }
+        }
+      }
+    },
+    "estate.property.blackjack.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blackjack Table"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesa de blackjack"
+          }
+        }
+      }
+    },
+    "estate.property.blackjack.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Twenty-one is the number everyone at this table is chasing."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veintiuno es el número que todos buscan en esta mesa."
+          }
+        }
+      }
+    },
+    "estate.property.cashier.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cashier"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caja"
+          }
+        }
+      }
+    },
+    "estate.property.cashier.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Under the bronze grille, the cashier keeps the floor supplied with chips."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tras la reja de bronce, la caja mantiene el salón abastecido de fichas."
+          }
+        }
+      }
+    },
+    "estate.property.casino.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solar Casino"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solar Casino"
+          }
+        }
+      }
+    },
+    "estate.property.casino.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The lights are on and the doors are yours to open. You own Solar Casino now. Play the games, build up your bank and turn the empty lots around it into your own casino empire."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las luces están encendidas y tú tienes las llaves. Solar Casino ya es tuyo. Juega, aumenta tu saldo y convierte las parcelas vacías en tu propio imperio."
+          }
+        }
+      }
+    },
+    "estate.property.coatCheck.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coat Check"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardarropa"
+          }
+        }
+      }
+    },
+    "estate.property.coatCheck.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brass claim tags and velvet hangers welcome every guest."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fichas de latón y perchas de terciopelo reciben a cada visitante."
+          }
+        }
+      }
+    },
+    "estate.property.concert.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concert Hall"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sala de conciertos"
+          }
+        }
+      }
+    },
+    "estate.property.concert.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The house lights dim and the first notes carry out onto the casino floor."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se apagan las luces y las primeras notas llegan al salón del casino."
+          }
+        }
+      }
+    },
+    "estate.property.craps.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Craps Table"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesa de dados"
+          }
+        }
+      }
+    },
+    "estate.property.craps.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The cheers start when the dice hit the far wall."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los aplausos empiezan cuando los dados golpean la pared del fondo."
+          }
+        }
+      }
+    },
+    "estate.property.hotel.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hotel"
+          }
+        }
+      }
+    },
+    "estate.property.hotel.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warm windows in the stepped tower promise a room after a long night."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las ventanas iluminadas de la torre escalonada ofrecen descanso al final de la noche."
+          }
+        }
+      }
+    },
+    "estate.property.lounge.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lounge"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salón"
+          }
+        }
+      }
+    },
+    "estate.property.lounge.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low lamps and deep velvet seats keep guests talking between rounds."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las lámparas bajas y los sillones de terciopelo invitan a conversar entre rondas."
+          }
+        }
+      }
+    },
+    "estate.property.poker.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poker Club"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Club de póker"
+          }
+        }
+      }
+    },
+    "estate.property.poker.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regulars take their seats under a green lamp for the evening game."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los habituales toman asiento bajo una lámpara verde para la partida de la noche."
+          }
+        }
+      }
+    },
+    "estate.property.restaurant.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurant"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurante"
+          }
+        }
+      }
+    },
+    "estate.property.restaurant.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Silver cloches and a late-night menu draw guests back to the dining room."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las campanas de plata y el menú nocturno atraen a los visitantes al comedor."
+          }
+        }
+      }
+    },
+    "estate.property.roulette.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roulette Table"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesa de ruleta"
+          }
+        }
+      }
+    },
+    "estate.property.roulette.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A brass wheel sends the ball past its red and black pockets."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una rueda de latón lleva la bola más allá de las casillas rojas y negras."
+          }
+        }
+      }
+    },
+    "estate.property.slots.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slot Hall"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sala de tragamonedas"
+          }
+        }
+      }
+    },
+    "estate.property.slots.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cabinet lights flicker as guests try their luck on the reels."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las luces de las máquinas parpadean mientras los visitantes prueban suerte."
+          }
+        }
+      }
+    },
+    "estate.property.vip.name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VIP Room"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salón VIP"
+          }
+        }
+      }
+    },
+    "estate.property.vip.story" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behind the private doors, velvet chairs surround a small high-limit table."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tras las puertas privadas, sillones de terciopelo rodean una pequeña mesa de apuestas altas."
+          }
+        }
+      }
+    },
+    "estate.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Casino Empire"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imperio del casino"
+          }
+        }
+      }
+    },
+    "Golden candy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golden candy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caramelo dorado"
+          }
+        }
+      }
+    },
+    "Golden drum" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golden drum"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tambor dorado"
+          }
+        }
+      }
+    },
+    "Golden feather" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golden feather"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pluma dorada"
+          }
+        }
+      }
+    },
+    "Jade mask" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jade mask"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Máscara de jade"
+          }
+        }
+      }
+    },
+    "Lock coins. Restore respins.\nFill the board for GRAND." : {
+
+    },
+    "Maracas" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maracas"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maracas"
+          }
+        }
+      }
+    },
+    "Orange pinwheel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange pinwheel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Molinillo naranja"
+          }
+        }
+      }
+    },
+    "Orange sweet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange sweet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caramelo naranja"
+          }
+        }
+      }
+    },
+    "Pink bonbon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pink bonbon"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bombón rosa"
+          }
+        }
+      }
+    },
+    "Reveal rocket %lld" : {
+
+    },
+    "Ruby balloon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruby balloon"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Globo de rubí"
+          }
+        }
+      }
+    },
+    "Ruby prism" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruby prism"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prisma de rubí"
+          }
+        }
+      }
+    },
+    "Ruby tablet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruby tablet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tabla de rubí"
+          }
+        }
+      }
+    },
+    "rules.blackjack.actions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Playing your hand"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cómo jugar tu mano"
+          }
+        }
+      }
+    },
+    "rules.blackjack.dealer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Each hand uses a freshly shuffled 52-card deck. The dealer stands on any 17 or higher, including soft 17, and reveals the hidden card when the hand ends."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En cada mano se barajan las 52 cartas. El crupier se planta con 17 o más, incluido el 17 suave, y revela la carta oculta al terminar la mano."
+          }
+        }
+      }
+    },
+    "rules.blackjack.double" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Double adds your original stake, draws exactly one card, then ends your turn. It’s available on your first two cards if you can cover the extra stake."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doblar añade el importe de la apuesta inicial, da una sola carta y termina tu turno. Solo está disponible con las dos cartas iniciales si tienes saldo para cubrir la diferencia."
+          }
+        }
+      }
+    },
+    "rules.blackjack.goal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a stake and deal. Beat the dealer without going over 21. Face cards count as 10. Aces count as 1 or 11."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige la apuesta y reparte. Supera al crupier sin pasarte de 21. Las figuras valen 10. Los ases valen 1 u 11."
+          }
+        }
+      }
+    },
+    "rules.blackjack.hit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hit draws a card. Stand passes play to the dealer, as does reaching 21. Going over 21 loses immediately."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pedir añade una carta. Plantarse cede el turno al crupier, igual que llegar a 21. Si pasas de 21, pierdes al instante."
+          }
+        }
+      }
+    },
+    "rules.blackjack.natural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Natural blackjack"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blackjack natural"
+          }
+        }
+      }
+    },
+    "rules.blackjack.push" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tie"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empate"
+          }
+        }
+      }
+    },
+    "rules.blackjack.settlement" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Returns include the stake. A natural is an ace and a 10-value card on the deal. Two naturals tie. Resume and finish your hand before starting another game."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El retorno incluye la apuesta. Un blackjack natural es un as y una carta de valor 10 en el reparto inicial. Dos naturales empatan. Reanuda y termina tu mano antes de empezar otro juego."
+          }
+        }
+      }
+    },
+    "rules.blackjack.win" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regular win"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Victoria normal"
+          }
+        }
+      }
+    },
+    "rules.cabinet.carnival" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the reels. Match from the left on 15 lines. Three festival tickets start Comet Parade. Break three rockets to reveal your free spins. Up to five rocket wilds move left and wrap each free spin. Add rocket values on a winning line to multiply its payout. New rockets add 1–3 spins, up to 40 awarded in total."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca los rodillos. Combina desde la izquierda en 15 líneas. Tres entradas del festival activan Comet Parade. Rompe tres cohetes para revelar tus giros gratis. Hasta cinco cohetes comodín avanzan a la izquierda en cada giro y vuelven por el otro lado. Suma sus valores en cada línea ganadora para multiplicar su pago. Los cohetes nuevos añaden de 1 a 3 giros, hasta 40 concedidos en total."
+          }
+        }
+      }
+    },
+    "rules.cabinet.charges" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonus charges keep their values as they fall: 2×, 3×, 5×, 8×, 12×, 25× or 50×. Add the charges left on the board to multiply the spin win once."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las cargas del bono conservan su valor al caer: 2×, 3×, 5×, 8×, 12×, 25× o 50×. Suma las que quedan en el tablero para multiplicar una vez el premio del giro."
+          }
+        }
+      }
+    },
+    "rules.cabinet.forge" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a stake and tap the reels. Three matching symbols pay on five lines. Three storm coins start Storm Lock with three respins. Each new coin resets the counter to three. MINI, MINOR and MAJOR coins pay the listed prizes. Fill all nine cells to add GRAND to your collected coins."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige la apuesta y toca los rodillos. Tres símbolos iguales pagan en cinco líneas. Tres monedas de tormenta activan Storm Lock con tres giros extra. Cada moneda nueva reinicia el contador a tres. Las monedas MINI, MINOR y MAJOR pagan el premio indicado. Al llenar las nueve casillas, GRAND se suma a las monedas acumuladas."
+          }
+        }
+      }
+    },
+    "rules.cabinet.nougat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the reels. Eight or more matching sweets anywhere on the 6 × 5 board pay and drop away, up to 12 tumbles. Four sugar portals award 10 free spins in Sugar Trail. During the bonus, three portals add three spins, up to 40 awarded in total."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca los rodillos. Ocho o más dulces iguales en cualquier parte del tablero de 6 × 5 pagan y desaparecen, hasta 12 cascadas. Cuatro portales de azúcar dan 10 giros gratis en Sugar Trail. En el bono, tres portales añaden tres giros, hasta 40 concedidos en total."
+          }
+        }
+      }
+    },
+    "rules.cabinet.payouts.comet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Multipliers apply to the stake for 8–9 matches. Pay doubles for 10–11 and quadruples for 12 or more."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los multiplicadores se aplican a la apuesta con 8–9 símbolos iguales. El pago se duplica con 10–11 y se cuadruplica con 12 o más."
+          }
+        }
+      }
+    },
+    "rules.cabinet.payouts.lines" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coins per line for three matches at a stake of 100."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monedas por línea con tres símbolos iguales y una apuesta de 100."
+          }
+        }
+      }
+    },
+    "rules.cabinet.payouts.longerLines" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Four matches pay 3× the line amount. Five pay 7×."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con cuatro símbolos iguales, el pago de la línea se multiplica por 3. Con cinco, por 7."
+          }
+        }
+      }
+    },
+    "rules.cabinet.temple" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the reels. Match from the left on 15 lines. The golden serpent is wild. Three temple gates start Serpent Rise with eight automatic free spins. A random reel turns wild after each free spin stops. Three gates add four spins, up to 40 awarded in total."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca los rodillos. Combina desde la izquierda en 15 líneas. La serpiente dorada es comodín. Tres puertas del templo activan Serpent Rise con ocho giros gratis automáticos. Al parar los rodillos en cada giro gratis, uno al azar se vuelve comodín. Tres puertas añaden cuatro giros, hasta 40 concedidos en total."
+          }
+        }
+      }
+    },
+    "rules.clusterPayment" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Multiply each cluster factor by your stake and cascade multiplier. Round down to whole coins, at least one per winning group."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Multiplica el factor de cada grupo por la apuesta y el multiplicador de cascada. Se redondea hacia abajo, con al menos una moneda por grupo ganador."
+          }
+        }
+      }
+    },
+    "rules.clusters" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cluster payouts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagos por grupo"
+          }
+        }
+      }
+    },
+    "rules.feature.orbit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seven free spins. A guaranteed wild replaces one symbol per spin, moving clockwise through the 12 outer spots."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siete giros gratis. Un comodín garantizado sustituye un símbolo por giro y recorre las 12 casillas del borde en sentido horario."
+          }
+        }
+      }
+    },
+    "rules.feature.prism" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eight free spins. The cascade multiplier resets to 2× each spin."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocho giros gratis. El multiplicador de cascada vuelve a 2× en cada giro."
+          }
+        }
+      }
+    },
+    "rules.feature.redline" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eight free spins. A center wild is guaranteed and line wins are doubled."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocho giros gratis con un comodín central garantizado y premios de línea dobles."
+          }
+        }
+      }
+    },
+    "rules.featureEntry %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonus entry costs %lld× your stake. Spins run automatically. Pause stops after the current spin. Your remaining spins and stake are saved when you leave."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La entrada al bono cuesta %lld× tu apuesta. Los giros son automáticos. La pausa se aplica al terminar el giro actual. Al salir se guardan tus giros restantes y tu apuesta."
+          }
+        }
+      }
+    },
+    "rules.fixedLines" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paylines"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Líneas de pago"
+          }
+        }
+      }
+    },
+    "rules.jackpots %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ jackpots"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premios de %@"
+          }
+        }
+      }
+    },
+    "rules.linePayment" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All-wild lines pay as red sevens. Round each winning line down to whole coins, at least one, then add them together."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las líneas de solo comodines pagan como sietes rojos. Redondea el pago de cada línea hacia abajo, con un mínimo de una moneda, y suma los pagos."
+          }
+        }
+      }
+    },
+    "rules.lines" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Line payouts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagos por línea"
+          }
+        }
+      }
+    },
+    "rules.mark.bell" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chrome bell"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Campana cromada"
+          }
+        }
+      }
+    },
+    "rules.mark.cherry" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cherries"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerezas"
+          }
+        }
+      }
+    },
+    "rules.mark.grapes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grapes"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uvas"
+          }
+        }
+      }
+    },
+    "rules.mark.lemon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lemon"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limón"
+          }
+        }
+      }
+    },
+    "rules.mark.melon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Watermelon"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sandía"
+          }
+        }
+      }
+    },
+    "rules.mark.seven" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red seven"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siete rojo"
+          }
+        }
+      }
+    },
+    "rules.payouts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Payouts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pagos"
+          }
+        }
+      }
+    },
+    "rules.roulette.groups" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dozen or column"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Docena o columna"
+          }
+        }
+      }
+    },
+    "rules.roulette.limits" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Combine up to 12 bets, with a maximum of 5,000 coins per bet. Tap a bet again to add a chip. You can remove individual bets or clear them all."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Combina hasta 12 apuestas, con un máximo de 5.000 monedas por apuesta. Toca una apuesta de nuevo para añadir una ficha. Puedes quitar apuestas por separado o borrarlas todas."
+          }
+        }
+      }
+    },
+    "rules.roulette.outside" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red/black, odd/even, 1–18 or 19–36"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rojo/negro, par/impar, 1–18 o 19–36"
+          }
+        }
+      }
+    },
+    "rules.roulette.single" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Single number"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número único"
+          }
+        }
+      }
+    },
+    "rules.roulette.start" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set the chip value, tap a bet to add a chip, then tap the wheel. The 37 numbers (0–36) are equally likely on every spin."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajusta el valor de la ficha, toca una apuesta para añadirla y luego toca la rueda. Los 37 números (0–36) tienen la misma probabilidad en cada giro."
+          }
+        }
+      }
+    },
+    "rules.roulette.zero" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zero pays only a direct bet on zero. Bets settle separately and returns include the winning stake."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El cero solo paga una apuesta directa al cero. Cada apuesta se liquida por separado y el retorno incluye el importe de la apuesta ganadora."
+          }
+        }
+      }
+    },
+    "rules.scatters.lines" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Three rocket scatters start the bonus. Three in a free spin add three spins, up to 40 remaining."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tres cohetes scatter activan el bono. Tres en un giro gratis añaden tres giros, hasta 40 pendientes."
+          }
+        }
+      }
+    },
+    "rules.scatters.prism" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Three rocket scatters on the opening board start the bonus. Later cascades do not count. Three in a free spin add three spins, up to 40 remaining."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tres cohetes scatter en el tablero inicial activan el bono. Las cascadas siguientes no cuentan. Tres en un giro gratis añaden tres giros, hasta 40 pendientes."
+          }
+        }
+      }
+    },
+    "rules.slot.orbit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a stake and tap the reels. Match 3–5 from the left on 15 lines. Wilds replace ordinary symbols. Prize multipliers apply to the full stake."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige la apuesta y toca los rodillos. Combina de 3 a 5 símbolos desde la izquierda en 15 líneas. Los comodines sustituyen símbolos normales. Los multiplicadores se aplican a la apuesta total."
+          }
+        }
+      }
+    },
+    "rules.slot.prism" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the reels. Groups of 5+ matching gems that share an edge pay separately and vanish together. New gems drop in. Up to six cascades pay per spin, starting at 1× (2× in free spins) and adding 1× each time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca los rodillos. Los grupos de 5 o más gemas iguales unidas por un lado pagan por separado y desaparecen a la vez. Caen nuevas gemas. Pagan hasta seis cascadas por giro: empiezan en 1× (2× en giros gratis) y suben 1× cada vez."
+          }
+        }
+      }
+    },
+    "rules.slot.redline" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a stake and tap the reels. Match three from the left on five lines. Wilds replace ordinary symbols. Prize multipliers apply to the full stake."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige la apuesta y toca los rodillos. Combina tres símbolos desde la izquierda en cinco líneas. Los comodines sustituyen símbolos normales. Los multiplicadores se aplican a la apuesta total."
+          }
+        }
+      }
+    },
+    "rules.symbol" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symbol"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Símbolo"
+          }
+        }
+      }
+    },
+    "rules.totalReturn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total return"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retorno total"
+          }
+        }
+      }
+    },
+    "rules.virtualCoins" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All play uses virtual coins with no cash value or prizes. Outcomes are independent and random."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se juega con monedas virtuales sin valor monetario ni premios. Los resultados son aleatorios e independientes."
+          }
+        }
+      }
+    },
+    "settings.haptics" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vibration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vibración"
+          }
+        }
+      }
+    },
+    "settings.sound" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonido"
+          }
+        }
+      }
+    },
+    "slot.bonus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BONUS"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BONO"
+          }
+        }
+      }
+    },
+    "slot.bonusCost" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonus entry"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrada al bono"
+          }
+        }
+      }
+    },
+    "slot.bonusPause" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PAUSE"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PAUSAR"
+          }
+        }
+      }
+    },
+    "slot.bonusResume" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RESUME"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "REANUDAR"
+          }
+        }
+      }
+    },
+    "slot.enterBonus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter Bonus"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrar al bono"
+          }
+        }
+      }
+    },
+    "slot.freeTurns %lld" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld FREE SPINS"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld GIROS GRATIS"
+          }
+        }
+      }
+    },
+    "slot.lastWin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAST WIN"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ÚLTIMO PREMIO"
+          }
+        }
+      }
+    },
+    "slot.lockCoins" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LOCKED COINS"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MONEDAS FIJAS"
+          }
+        }
+      }
+    },
+    "slot.lower" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lower stake"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bajar apuesta"
+          }
+        }
+      }
+    },
+    "slot.raise" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raise stake"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subir apuesta"
+          }
+        }
+      }
+    },
+    "slot.respin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spin the lock reels"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Girar rodillos bloqueados"
+          }
+        }
+      }
+    },
+    "slot.respins" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RESPINS"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "REPETICIONES"
+          }
+        }
+      }
+    },
+    "slot.rules" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Game rules"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reglas del juego"
+          }
+        }
+      }
+    },
+    "slot.saveReturn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save and Return"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar y volver"
+          }
+        }
+      }
+    },
+    "slot.spin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spin reels"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Girar rodillos"
+          }
+        }
+      }
+    },
+    "slot.stake" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STAKE"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "APUESTA"
+          }
+        }
+      }
+    },
+    "slot.startBonus" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Free Spins"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar giros gratis"
+          }
+        }
+      }
+    },
+    "slot.turboOff" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TURBO OFF"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TURBO NO"
+          }
+        }
+      }
+    },
+    "slot.turboOn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TURBO ON"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TURBO SÍ"
+          }
+        }
+      }
+    },
+    "Solar Casino Slots" : {
+
+    },
+    "Start with three locked coins and three respins." : {
+
+    },
+    "Storm coin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Storm coin"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moneda de tormenta"
+          }
+        }
+      }
+    },
+    "Strawberry heart" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strawberry heart"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corazón de fresa"
+          }
+        }
+      }
+    },
+    "Sugar plum" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sugar plum"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciruela azucarada"
+          }
+        }
+      }
+    },
+    "Sun disk" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sun disk"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disco solar"
+          }
+        }
+      }
+    },
+    "table.blackjack.deal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deal"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Repartir"
+          }
+        }
+      }
+    },
+    "table.blackjack.dealer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dealer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crupier"
+          }
+        }
+      }
+    },
+    "table.blackjack.double" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Double"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doblar"
+          }
+        }
+      }
+    },
+    "table.blackjack.faceDown" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Face-down card"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carta boca abajo"
+          }
+        }
+      }
+    },
+    "table.blackjack.hit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hit"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pedir"
+          }
+        }
+      }
+    },
+    "table.blackjack.player" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hand"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tu mano"
+          }
+        }
+      }
+    },
+    "table.blackjack.result.bust" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Over 21"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más de 21"
+          }
+        }
+      }
+    },
+    "table.blackjack.result.dealer-bust" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dealer over 21"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El crupier se pasó de 21"
+          }
+        }
+      }
+    },
+    "table.blackjack.result.dealer-natural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dealer blackjack"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blackjack del crupier"
+          }
+        }
+      }
+    },
+    "table.blackjack.result.dealer-win" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dealer wins"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gana el crupier"
+          }
+        }
+      }
+    },
+    "table.blackjack.result.natural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blackjack · 3:2"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blackjack · 3:2"
+          }
+        }
+      }
+    },
+    "table.blackjack.result.push" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tie"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empate"
+          }
+        }
+      }
+    },
+    "table.blackjack.result.win" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You win"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ganaste"
+          }
+        }
+      }
+    },
+    "table.blackjack.stand" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stand"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plantarse"
+          }
+        }
+      }
+    },
+    "table.continue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        }
+      }
+    },
+    "table.returned" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Returned"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retorno"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.black" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Black"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Negro"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.column1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Column 1"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Columna 1"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.column2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Column 2"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Columna 2"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.column3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Column 3"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Columna 3"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.dozen1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1st dozen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1.ª docena"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.dozen2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2nd dozen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2.ª docena"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.dozen3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3rd dozen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3.ª docena"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.even" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Even"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Par"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.high" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "19–36"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "19–36"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.low" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1–18"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1–18"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.odd" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odd"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impar"
+          }
+        }
+      }
+    },
+    "table.roulette.bet.red" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rojo"
+          }
+        }
+      }
+    },
+    "table.roulette.bigWin" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Big win"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gran premio"
+          }
+        }
+      }
+    },
+    "table.roulette.chipValue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHIP VALUE"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VALOR DE LA FICHA"
+          }
+        }
+      }
+    },
+    "table.roulette.clear" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear bets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Borrar apuestas"
+          }
+        }
+      }
+    },
+    "table.roulette.numbers" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numbers"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Números"
+          }
+        }
+      }
+    },
+    "table.roulette.outside" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outside bets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apuestas externas"
+          }
+        }
+      }
+    },
+    "table.roulette.placeBet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Place a bet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haz una apuesta"
+          }
+        }
+      }
+    },
+    "table.roulette.remove" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove bet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitar apuesta"
+          }
+        }
+      }
+    },
+    "table.roulette.spinning" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spinning…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Girando…"
+          }
+        }
+      }
+    },
+    "table.roulette.tapWheel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap the wheel to spin"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca la rueda para girar"
+          }
+        }
+      }
+    },
+    "table.roulette.total" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total bet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apuesta total"
+          }
+        }
+      }
+    },
+    "table.roulette.wheel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roulette wheel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rueda de ruleta"
+          }
+        }
+      }
+    },
+    "table.virtualCoins" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Virtual coins"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monedas virtuales"
+          }
+        }
+      }
+    },
+    "Teal candy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teal candy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caramelo turquesa"
+          }
+        }
+      }
+    },
+    "Teal gummy star" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teal gummy star"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estrella de goma turquesa"
+          }
+        }
+      }
+    },
+    "Turquoise gem" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turquoise gem"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gema turquesa"
+          }
+        }
+      }
+    },
+    "Uses your virtual coins" : {
+
+    },
+    "Violet jelly" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Violet jelly"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gelatina violeta"
+          }
+        }
+      }
+    },
+    "Walking wilds. Multipliers. Extra spins." : {
+
+    }
+  },
+  "version" : "1.0"
+}
